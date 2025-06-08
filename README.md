@@ -1,1 +1,1 @@
-# Arquivos de contendo as anotações feitas
+# Arquivos .md contendo as anotações feitas
